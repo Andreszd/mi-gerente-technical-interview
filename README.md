@@ -7,3 +7,5 @@ Este proyecto fue construido usando [Create React App](https://github.com/facebo
 ## Comando para ejecutar en Local
 
 ### `npm start`
+
+[Video demostrativo](https://share.vidyard.com/watch/uWUzZ9DSX8EUJ3WHiCnRwM?)
